@@ -20,7 +20,7 @@ const coachRoutes = [
   {
     icon: List,
     label: "Courses",
-    href: "/",
+    href: "/coach/courses",
   },
   {
     icon: BarChart,
