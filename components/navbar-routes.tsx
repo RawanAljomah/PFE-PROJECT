@@ -35,7 +35,8 @@ export const NavbarRoutes = () => {
             Coach mode
           </Button>
         </Link>
-      )}
+
+      )} 
       <UserButton afterSignOutUrl="/" />
     </div>
     </>

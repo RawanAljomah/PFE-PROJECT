@@ -122,5 +122,7 @@ export const CategoryForm = ({
         </Form>
       )}
     </div>
+    
   );
-};
+
+}; 
